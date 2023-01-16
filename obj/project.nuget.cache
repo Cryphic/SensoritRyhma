@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQtRSg5GTx//NtOmM45nc0WlvvWUYkm8eSsgFYqIs3lGRDKspyqu2hUEBUgl294s0N2BQbsVD9lfOsnSplqzUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristian\\source\\repos\\SRyhma\\SRyhma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristian\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

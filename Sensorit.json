@@ -1,0 +1,44 @@
+[
+  {
+    "$type": "SRyhma.LampoSensori, SRyhma",
+    "LampoTila": [
+      6,
+      -25,
+      11,
+      41,
+      33
+    ],
+    "Id": 1,
+    "SensoriTime": "2022-12-09T06:17:50.4492078+02:00"
+  },
+  {
+    "$type": "SRyhma.TilaSensori, SRyhma",
+    "Tila": true,
+    "Id": 2,
+    "SensoriTime": "2022-10-15T15:30:00"
+  },
+  {
+    "$type": "SRyhma.TilaSensori, SRyhma",
+    "Tila": true,
+    "Id": 3,
+    "SensoriTime": "2013-10-15T15:30:00"
+  },
+  {
+    "$type": "SRyhma.TilaSensori, SRyhma",
+    "Tila": true,
+    "Id": 4,
+    "SensoriTime": "2018-10-15T15:30:00"
+  },
+  {
+    "$type": "SRyhma.LampoSensori, SRyhma",
+    "LampoTila": [
+      3,
+      -11,
+      31,
+      21,
+      13
+    ],
+    "Id": 5,
+    "SensoriTime": "2021-12-09T06:17:50.4492078+02:00"
+  }
+]

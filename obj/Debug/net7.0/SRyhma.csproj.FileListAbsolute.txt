@@ -1,0 +1,17 @@
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.csproj.AssemblyReference.cache
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.AssemblyInfoInputs.cache
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.AssemblyInfo.cs
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\SRyhma.exe
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\SRyhma.deps.json
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\SRyhma.runtimeconfig.json
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\SRyhma.dll
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\SRyhma.pdb
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.dll
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\refint\SRyhma.dll
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.pdb
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.genruntimeconfig.cache
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\ref\SRyhma.dll
+C:\Users\Kristian\source\repos\SRyhma\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Kristian\source\repos\SRyhma\obj\Debug\net7.0\SRyhma.csproj.CopyComplete
